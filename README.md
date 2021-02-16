@@ -11,10 +11,13 @@ A homepage that showcases my projects, skills, hobbies, and some contact informa
 ### tech requirements
 html, bootstrap, css, JavaScript
 ## get started!
-Run 'npm install' in your terminal to download the required packages and some of the dev tools I use.
-This project was linted with ESLint and formatted with Prettier
-### to use
-Open the "index.html" file in your browswer. I personally like use Live Server or Reload
+Use
+```
+npm install
+npm run start
+```
+in your terminal to download the required packages and some of the dev tools I use.
+This project was linted with ESLint and formatted with Prettier. A live server will start with Reload with the start script. You can also use Live Server to open the index.html file to run the project on a localhost.
 ### Author: Nabil Arbouz
 https://nabilarbouz.github.io/
 
@@ -23,4 +26,4 @@ Northeastern University Bay Area
 https://johnguerra.co/classes/webDevelopment_spring_2021/
 
 # link to demonstration:
-coming soon.
+https://youtu.be/Vhip-zBV6Q0
