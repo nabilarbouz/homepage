@@ -3,11 +3,11 @@ A homepage that showcases my projects, skills, hobbies, and some contact informa
 
 ## screenshots
 ### home
-![alt text](https://drive.google.com/file/d/1fGQM2kDW3Uggsdhxe9UGECnXlCeNaEht/view?usp=sharing)
+![alt text](https://github.com/nabilarbouz/nabilHomepage/blob/main/homepageScreenshots/home.JPG?raw=true)
 ### about
-![alt text](https://drive.google.com/file/d/1BRiPFtvJub7WN-9U_83FOu61UiJAV81f/view?usp=sharing)
+![alt text](https://github.com/nabilarbouz/nabilHomepage/blob/main/homepageScreenshots/about.JPG?raw=true)
 ### contact
-![alt text](https://drive.google.com/file/d/1iGc2__gsm4BgTNusgFL3k1BLomliUGr7/view?usp=sharing)
+![alt text](https://github.com/nabilarbouz/nabilHomepage/blob/main/homepageScreenshots/contact.JPG?raw=true)
 ### tech requirements
 html, bootstrap, css, JavaScript
 ## get started!
