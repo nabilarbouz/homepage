@@ -2,11 +2,11 @@
 A homepage that showcases my projects, skills, hobbies, and some contact information. You can download this project and customize it to your liking!
 
 ## screenshots
-### home
+### Home Screen
 ![alt text](https://github.com/nabilarbouz/nabilHomepage/blob/main/homepageScreenshots/home.JPG?raw=true)
-### about
+### About Screen
 ![alt text](https://github.com/nabilarbouz/nabilHomepage/blob/main/homepageScreenshots/about.JPG?raw=true)
-### contact
+### Contact Screen
 ![alt text](https://github.com/nabilarbouz/nabilHomepage/blob/main/homepageScreenshots/contact.JPG?raw=true)
 ### tech requirements
 html, bootstrap, css, JavaScript
@@ -22,5 +22,5 @@ https://nabilarbouz.github.io/
 Northeastern University Bay Area
 https://johnguerra.co/classes/webDevelopment_spring_2021/
 
-#link to demonstration:
+# link to demonstration:
 coming soon.
