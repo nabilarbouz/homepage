@@ -1,3 +1,4 @@
+// This function will put the current date on the navbar
 const setTodaysDate = () => {
   let todaysDate = new Date();
   let dateElement = document.getElementById("todaysDate");

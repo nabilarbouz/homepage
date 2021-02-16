@@ -1,3 +1,4 @@
+// this script will dynamically add the content to the carousel on the About page. This functionality makes it easier to make changes with less bugs.
 const carouselInfoArray = [
   {
     title: "School and Business Experience",
