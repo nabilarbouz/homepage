@@ -8,8 +8,8 @@ A homepage that showcases my projects, skills, hobbies, and some contact informa
 ![alt text](https://github.com/nabilarbouz/nabilHomepage/blob/main/homepageScreenshots/about.JPG?raw=true)
 ### Contact Screen
 ![alt text](https://github.com/nabilarbouz/nabilHomepage/blob/main/homepageScreenshots/contact.JPG?raw=true)
-### tech requirements
-html, bootstrap, css, JavaScript
+### Tech Requirements
+HTML5, CSS, Bootstrap, JavaScript
 ## Get started!
 Clone or download the repo!
 Then use:
