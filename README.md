@@ -1,7 +1,7 @@
 # nabilHomepage
 A homepage that showcases my projects, skills, hobbies, and some contact information. You can download this project and customize it to your liking!
 
-## screenshots
+## Screenshots
 ### Home Screen
 ![alt text](https://github.com/nabilarbouz/nabilHomepage/blob/main/homepageScreenshots/home.JPG?raw=true)
 ### About Screen
@@ -10,20 +10,21 @@ A homepage that showcases my projects, skills, hobbies, and some contact informa
 ![alt text](https://github.com/nabilarbouz/nabilHomepage/blob/main/homepageScreenshots/contact.JPG?raw=true)
 ### tech requirements
 html, bootstrap, css, JavaScript
-## get started!
-Use
+## Get started!
+Clone or download the repo!
+Then use:
 ```
 npm install
 npm run start
 ```
-in your terminal to download the required packages and some of the dev tools I use.
+in your terminal to download the required packages and the dev tools I used in this project.
 This project was linted with ESLint and formatted with Prettier. A live server will start with Reload with the start script. You can also use Live Server to open the index.html file to run the project on a localhost.
 ### Author: Nabil Arbouz
 https://nabilarbouz.github.io/
 
-## Project for CS 5610 Web Development
+### Project for CS 5610 Web Development
 Northeastern University Bay Area
 https://johnguerra.co/classes/webDevelopment_spring_2021/
 
-# link to demonstration:
+## Link to demonstration:
 https://youtu.be/Vhip-zBV6Q0
